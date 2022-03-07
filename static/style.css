@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    place-content: center;
+}
+
+h3{
+    margin: 15px;
+}
+
+#button{
+    background-color: aqua;
+    font-size: large;
+    margin: 15px;
+}
+
+#reset{
+    background-color: red;
+    font-size: large;
+    margin: 15px;
+}
+
